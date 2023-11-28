@@ -18,7 +18,7 @@
       "active": false
     },
     "systemTray": {
-      "iconPath": "png/icon_512.png",
+      "iconPath": "png/youtube_512.png",
       "iconAsTemplate": true
     },
     "allowlist": {
